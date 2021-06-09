@@ -6,5 +6,9 @@ pip install pyextramodules
 ```
 
 ```python
+import pyextramodules as pext
+
+or
+
 import pyextramodules
 ```
